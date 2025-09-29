@@ -1,10 +1,13 @@
 Dashboard y analisis de datos excel
+
 Se ha buscado una tabla de datos en bruto y se ha obtenido el archivo salariestrabajosAI.csv obtenido en el enclace web https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs.
+
 La descripción de los datos es:
 Este conjunto de datos captura datos salariales reales para puestos en ciencia de datos, inteligencia artificial y aprendizaje automático entre 2020 y 2025. Cada fila representa un salario reportado, enriquecido con atributos como el puesto, el nivel de experiencia, el tamaño de la empresa, la tasa de teletrabajo y el contexto geográfico. 
+
 1º importar CSV a Excel
 2º análisis previo de los datos
-	Se trata de un conjunto de datos que recoge el salario de trabajadores de distintos paises y posiciones, todas ellas relacionadas con analisiis y procesamiento de datos e inteligencia artifical. Contiene inicialmente 10 columnas con 141.566.
+Se trata de un conjunto de datos que recoge el salario de trabajadores de distintos paises y posiciones, todas ellas relacionadas con analisiis y procesamiento de datos e inteligencia artifical. Contiene inicialmente 10 columnas con 141.566.
 En primer lugar, la primera columna señala el año del dato de salario
 En la segunda columna se recogen diferentes niveles de experiencia (SE: Senior, EX:experto, MI:medio, EN:principiante)
 Se recogen a su vez tipos de contratos (CT:por contrato  , FT: tiempo completo, PT:jornada parcial, y FL:tiempo completo) .Se ve que hay dos clasificaciones para considerar tiempo completo, que se trataran más adelante.
