@@ -42,10 +42,21 @@ Asi pues se introducen big numbers con el numero total del empleos, Masa salaria
 Se añaden tres gráficos al Dashboard
 1.	Muestra el numero de empleos en los años contemplados
 2.	Muestra la distribución en los diferentes paises (los 10 con más empleos)
-3.	Muestra el procentaje de presencialidad 
+3.	Muestra el procentaje de presencialidad
 
 Se añaden dos tablas que muestran los 5 mejores empleos:
 1.	Encuanto a numero de empleos existentes
 2.	En cuanto a mejor pagados
    
 Se añaden 3 segmentadores de datos que aplican a todos los datos mostrados en el dashboard, para que el usuario pueda filtras según el año del dato (2020-2025), el tamaño de la empresa(S, M,L), y el tipo de contrato que tenga el empleado(FT completo, CT contrato por tiempo fijo, PT parcial)
+
+ANALISIS DE LOS DATOS
+Jugando con los segmentadores de datos se comprueba que el número de empleos dedicados a tratamiento de datos e inteligencia artificial ha crecido en los ultimos años,siendo el mayor salto en cuanto a numero de empleos el registrado entre 2023 y 2024; este aumento de población ha llevado aparejada un aumento de la masa salarial de manera cada año a excepción del año 2025 donde alguno de los perfiles de experiencia ha perdido poder adquisitivo (principiante, intermedio y senior)
+
+Por otro lado, la distribución de la localización de los puestos no ha variado demasiado en los años, siendo USA el pais con más personas dedicadas a estos trabajos, aunque si que es cierto que en el año 2025, con más diferecnia con repecto al resto.
+Se observa que la gran mayoría de los puestos de trabajo son a tiempo completo y la evolución de la presencialidad ha ido cambiando con los años. Mientras en el año 2020, casi el 50% de los puestos era en remoto, en 2025, la tendencia es a la presencialidad con un 80% tirando de ello las grandes empresas, ya que en la pequeña y mediana empresa todavía persiste la tipología remota o mixta. Estos datos evidententemente han estado condicionados por la situación de pandemia global que se ha vivido en los primeros aos del estudio.
+
+
+
+
+
